@@ -1,2 +1,4 @@
-aiogram~=2.12
 environs~=8.0.0
+requests~=2.25.1
+aiogram~=2.12.1
+pyquery~=1.4.3
