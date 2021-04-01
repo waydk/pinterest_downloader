@@ -1,4 +1,4 @@
-![Logo](https://github.com/waydk/PinterestDownloader/blob/main/images/logo.png)
+![Logo](https://github.com/waydk/PinterestDownloader/blob/main/images/logo.jpg)
 # Pinterest Downloader Bot
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk%2FPinterestDownloader&count_bg=%23000000&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Python](https://img.shields.io/badge/python%20-3.9-black?labelColor=060606&logo=python&logoColor=white)
